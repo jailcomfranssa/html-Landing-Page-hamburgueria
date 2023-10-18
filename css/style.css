@@ -394,6 +394,23 @@ body {
         width: 393px;
     }
 
+    .info-txt h2 {
+        font-size: 70px;
+    }
+
+    .horario-txt {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-direction: row;
+        padding: 22px;
+    }
+
+    .mb{
+        position: relative;
+        bottom: -50px;
+    }
+
 }
 
 
